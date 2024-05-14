@@ -13,3 +13,4 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[Java](leetcode/26_RemoveDuplicates.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](leetcode/27_RemoveElement.java)|Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Java](leetcode/28_FirstIndexFisrtOccur.java)|Easy|
+|2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)|[JavaScript](leetcode/2703_ReturnLengthArgs.js)|Easy|
