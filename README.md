@@ -17,6 +17,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](leetcode/41_FirstMissingPositive.java)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](leetcode/153_FindMinRotatedSortedArray.java)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](leetcode/154_FindMinRotatedSortedArrayII.java)|Hard|
-|1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)| [Java](leetcode/1402_ReducingDishes.java)| Hard|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](leetcode/206_ReverseLinkedList.java)|Easy|
+|1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)| [Java](leetcode/1402_ReducingDishes.java)|Hard|
 |2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)|[JavaScript](leetcode/2703_ReturnLengthArgs.js)|Easy|
 |3136|[Valid Word](https://leetcode.com/problems/valid-word/)| [Java](leetcode/3136_ValidWord.java)| Easy|
