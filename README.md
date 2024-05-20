@@ -15,6 +15,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](leetcode/27_RemoveElement.java)|Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Java](leetcode/28_FirstIndexFisrtOccur.java)|Easy|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](leetcode/41_FirstMissingPositive.java)|Hard|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](leetcode/58_LengthOfLastWord.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](leetcode/153_FindMinRotatedSortedArray.java)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](leetcode/154_FindMinRotatedSortedArrayII.java)|Hard|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](leetcode/206_ReverseLinkedList.java)|Easy|
