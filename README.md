@@ -22,6 +22,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](leetcode/169_MajorityElement.java)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](leetcode/206_ReverseLinkedList.java)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](leetcode/273_DeleteNodeLinkedList.java)|Medium|
+|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Java](leetcode/697_DegreeofanArray.java)|Easy|
 |1019|[Next Greater Node in Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)| [Java](leetcode\1019_NextGreaterNodeInList.java)|Medium|
 |1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)| [Java](leetcode/1402_ReducingDishes.java)|Hard|
 |2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)|[JavaScript](leetcode/2703_ReturnLengthArgs.js)|Easy|
