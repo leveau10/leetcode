@@ -19,6 +19,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](leetcode/83_RemoveDuplicatesSortedList.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](leetcode/153_FindMinRotatedSortedArray.java)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](leetcode/154_FindMinRotatedSortedArrayII.java)|Hard|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](leetcode/169_MajorityElement.java)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](leetcode/206_ReverseLinkedList.java)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](leetcode/273_DeleteNodeLinkedList.java)|Medium|
 |1019|[Next Greater Node in Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)| [Java](leetcode\1019_NextGreaterNodeInList.java)|Medium|
